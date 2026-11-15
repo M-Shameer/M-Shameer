@@ -1,18 +1,53 @@
-# 💫 About Me:
-# 👋 Hi, I'm Shameer!<br><br>🎓 Computer Science Student | 💻 Aspiring Software Developer<br><br>I'm a Computer Science student passionate about exploring different areas of software development and turning ideas into real-world projects. I enjoy learning new technologies, experimenting with code, and continuously improving my programming skills.<br><br>### 🚀 What I'm Interested In<br>- 🌐 Building responsive and interactive websites.<br>- 🤖 Exploring Artificial Intelligence and Machine Learning.<br>- ⚙️ Developing automation tools and bots.<br>- 📱 Exploring mobile application development.<br><br>### 💻 Languages & Technologies<br>- **Languages:** Python, Java, C, C++, C#, JavaScript<br>- **Web Development:** HTML, CSS, JavaScript<br>- **Other Interests:** AI, Automation, Software Development<br><br>### 🌱 Currently Learning<br>- Strengthening my programming fundamentals.<br>- Improving my problem-solving and coding skills.<br>- Exploring different technologies and development frameworks.<br>- Working on personal projects to gain practical experience.<br><br>### 🤝 Open To<br>- Collaborating on beginner-friendly projects.<br>- Learning from experienced developers.<br>- Exploring open-source contributions.<br>- Connecting with fellow Computer Science students and developers.<br><br>### ⚡ Fun Fact<br>When I'm not coding, I'm probably watching my favorite entertainment shows! 🍿<br><br>---<br><br>⭐ *Always learning, always building, and always improving.*
+# Hi, I'm Muhammad Shameer 👋
 
+**Computer Science Student · Aspiring Software Developer**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Shameer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammad.shameer762@outlook.com) 
+I build full-stack web applications and enjoy turning ideas into working software.
+Currently focused on **ASP.NET Core** and **web development**, and exploring **AI and automation**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=M-Shameer&theme=kacho_ga&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=M-Shameer&theme=kacho_ga&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Shameer&theme=kacho_ga&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🔭 Currently
+- Building full-stack apps with **ASP.NET Core, EF Core and SQL Server**
+- Strengthening problem-solving and software design fundamentals
+- Open to collaborating on projects and contributing to open source
 
----
-[![](https://komarev.com/ghpvc/?username=M-Shameer&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Web & Frameworks**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & Tools**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+### 📌 Featured Project
+
+| Project | Description | Stack |
+|---|---|---|
+| [Student Management System](https://github.com/M-Shameer/student-management-system) | Full-stack CRUD app with a Web API backend, a Razor Pages frontend, stored-procedure search, validation and LINQ reports | ASP.NET Core, EF Core, SQL Server, Dapper, Swagger |
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=M-Shameer&theme=kacho_ga&hide_border=true&count_private=false" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=M-Shameer&theme=kacho_ga&hide_border=true&layout=compact" />
+</p>
+<img src="https://streak-stats.demolab.com/?user=M-Shameer&theme=kacho_ga&hide_border=true" />
+
+### 📫 Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.shameer762@outlook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK-USERNAME)
+
+![Profile views](https://komarev.com/ghpvc/?username=M-Shameer&color=blueviolet&style=flat-square)
